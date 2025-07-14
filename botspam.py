@@ -6,7 +6,7 @@ import nest_asyncio
 
 nest_asyncio.apply()
 
-TOKEN = "MTM3MzU3Mjk2ODU5MjA0ODE0OQ.Gi15QU.rjyhu4iLK15MwCvlt2-u6Kq-CUhLAq_pxwmsn8"
+TOKEN = ""
 
 intents = discord.Intents.default()
 intents.guilds = True
